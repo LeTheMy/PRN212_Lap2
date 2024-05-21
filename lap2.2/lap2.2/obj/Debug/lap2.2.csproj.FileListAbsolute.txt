@@ -1,0 +1,7 @@
+E:\code_C#\lap2.2\lap2.2\obj\Debug\lap2.2.csproj.AssemblyReference.cache
+E:\code_C#\lap2.2\lap2.2\obj\Debug\lap2.2.csproj.CoreCompileInputs.cache
+E:\code_C#\lap2.2\lap2.2\bin\Debug\lap2.2.exe.config
+E:\code_C#\lap2.2\lap2.2\bin\Debug\lap2.2.exe
+E:\code_C#\lap2.2\lap2.2\bin\Debug\lap2.2.pdb
+E:\code_C#\lap2.2\lap2.2\obj\Debug\lap2.2.exe
+E:\code_C#\lap2.2\lap2.2\obj\Debug\lap2.2.pdb

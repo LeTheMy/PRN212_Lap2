@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code_C#\\lap2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|e:\\code_c#\\lap2.1\\lap2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|solutionrelative:lap2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|e:\\code_c#\\lap2.1\\lap2.1\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|solutionrelative:lap2.1\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|e:\\code_c#\\lap2.1\\lap2.1\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|solutionrelative:lap2.1\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|e:\\code_c#\\lap2.1\\lap2.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|solutionrelative:lap2.1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|e:\\code_c#\\lap2.1\\lap2.1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66E29E3-DA3D-406A-B293-4628D73DCB90}|lap2.1\\lap2.1.csproj|solutionrelative:lap2.1\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\code_C#\\lap2.1\\lap2.1\\Program.cs",
+              "RelativeDocumentMoniker": "lap2.1\\Program.cs",
+              "ToolTip": "E:\\code_C#\\lap2.1\\lap2.1\\Program.cs",
+              "RelativeToolTip": "lap2.1\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwE8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "E:\\code_C#\\lap2.1\\lap2.1\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "lap2.1\\PartTimeEmployee.cs",
+              "ToolTip": "E:\\code_C#\\lap2.1\\lap2.1\\PartTimeEmployee.cs",
+              "RelativeToolTip": "lap2.1\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:12.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "E:\\code_C#\\lap2.1\\lap2.1\\IEmployee.cs",
+              "RelativeDocumentMoniker": "lap2.1\\IEmployee.cs",
+              "ToolTip": "E:\\code_C#\\lap2.1\\lap2.1\\IEmployee.cs",
+              "RelativeToolTip": "lap2.1\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:12.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "E:\\code_C#\\lap2.1\\lap2.1\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "lap2.1\\FullTimeEmployee.cs",
+              "ToolTip": "E:\\code_C#\\lap2.1\\lap2.1\\FullTimeEmployee.cs",
+              "RelativeToolTip": "lap2.1\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\code_C#\\lap2.1\\lap2.1\\Employee.cs",
+              "RelativeDocumentMoniker": "lap2.1\\Employee.cs",
+              "ToolTip": "E:\\code_C#\\lap2.1\\lap2.1\\Employee.cs",
+              "RelativeToolTip": "lap2.1\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:12.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
